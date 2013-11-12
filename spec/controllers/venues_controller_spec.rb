@@ -8,10 +8,6 @@ describe VenuesController do
       expect(response).to render_template("index")
     end
 
-    it "renders the venue partial on the venue index" do
-      response.should render_template(partial: 'venue')
-    end
-
     it "renders the mobile index page" do
       get :index, mobile: true
 
