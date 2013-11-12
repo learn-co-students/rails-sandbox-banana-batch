@@ -5,6 +5,9 @@ RailsSandbox::Application.routes.draw do
   # You can have the root of your site routed with "root"
   # root 'welcome#index'
 
+  resources :venues
+  get 'text' => 'random_stuff#text'
+
   # Example of regular route:
   #   get 'products/:id' => 'catalog#view'
 
