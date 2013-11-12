@@ -7,6 +7,8 @@ RailsSandbox::Application.routes.draw do
 
   resources :venues
   get 'text' => 'random_stuff#text'
+  get 'classified' => 'random_stuff#classified'
+  get 'nothing' => 'random_stuff#nothing'
 
   # Example of regular route:
   #   get 'products/:id' => 'catalog#view'
