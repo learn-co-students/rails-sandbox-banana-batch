@@ -9,6 +9,8 @@ RailsSandbox::Application.routes.draw do
   get 'text' => 'random_stuff#text'
   get 'classified' => 'random_stuff#classified'
   get 'nothing' => 'random_stuff#nothing'
+  get 'zig' => 'random_stuff#zig'
+  get 'zag' => 'random_stuff#zag'
 
   # Example of regular route:
   #   get 'products/:id' => 'catalog#view'

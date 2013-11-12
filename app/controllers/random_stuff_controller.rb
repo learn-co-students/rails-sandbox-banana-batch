@@ -12,4 +12,12 @@ class RandomStuffController < ApplicationController
   def nothing
     render nothing: true
   end
+
+  def zig
+    redirect_to '/zag'
+  end
+
+  def zag
+    render nothing: true
+  end
 end
