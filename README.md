@@ -1,9 +1,9 @@
 ---
-  tags: practice, rails
+  tags: practice, rails, deprecated
   languages: ruby
 ---
 
-# Rails Sandbox
+# Rails Sandbox DEPRECATED. Do Not Deploy
 
 ## Deliverables
 
