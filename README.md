@@ -5,7 +5,7 @@
 
 # Rails Sandbox DEPRECATED. Do Not Deploy
 
-## Deliverables...
+## Deliverables
 
 This app is just for practicing small Rails concepts.
 
