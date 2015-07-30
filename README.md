@@ -1,7 +1,4 @@
----
-  tags: practice, rails, deprecated
-  languages: ruby
----
+
 
 # Rails Sandbox DEPRECATED. Do Not Deploy
 
