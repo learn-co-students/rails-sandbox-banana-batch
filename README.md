@@ -14,3 +14,5 @@ Get the tests to pass! Loosely based on content from Rails 4 Way.
 
 Also use this app to just play around.  Remember you can push it up to a
 remote of your own.
+
+<a href='https://learn.co/lessons/rails-sandbox' data-visibility='hidden'>View this lesson on Learn.co</a>
