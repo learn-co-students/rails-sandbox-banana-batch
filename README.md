@@ -15,4 +15,4 @@ Get the tests to pass! Loosely based on content from Rails 4 Way.
 Also use this app to just play around.  Remember you can push it up to a
 remote of your own.
 
-<a href='https://learn.co/lessons/rails-sandbox' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/rails-sandbox' title='Rails Sandbox DEPRECATED. Do Not Deploy'>Rails Sandbox DEPRECATED. Do Not Deploy</a> on Learn.co and start learning to code for free.</p>
